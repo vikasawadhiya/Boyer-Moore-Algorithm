@@ -15,7 +15,7 @@ in best case scenario as compared to the naïve algorithm of quadratic time comp
 
 ## Tutorial Document
 
-<p align="justify">The tutorial document [BoyerMooreAlgorithm.pdf](https://github.com/vikasawadhiya/Boyer-Moore-Algorithm/blob/main/BoyerMooreAlgorithm.pdf) 
+<p align="justify">The tutorial document <a href="https://github.com/vikasawadhiya/Boyer-Moore-Algorithm/blob/main/BoyerMooreAlgorithm.pdf">BoyerMooreAlgorithm.pdf</a>
 explains the algorithm in detail. It is a “One Time Read” document that explains the 
 Boyer-Moore algorithm in such detail and in the simplest manner that only a single 
 reading of this document is required to understand the concept. It uses a lot pictorial 
